@@ -1,4 +1,4 @@
-# Psychopomp and Circumstance: TTRPG Mod Idea
+# TTRPG Mod Idea
 
 All player characters are modern witches. 
 
@@ -9,4 +9,3 @@ All player characters are modern witches.
 - Death: graveyards
 - Animal whisperer: animal species
 - Cyber: Computer code
-- 
