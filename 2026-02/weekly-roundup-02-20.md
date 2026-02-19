@@ -4,5 +4,7 @@ https://www.assignedmedia.org/breaking-news/gender-identity-philosophy-rowan-bel
 
 https://robotameri.ca/a-revised-solarpunk-ai-manifesto/
 
+https://gizmodo.com/star-trek-idw-comics-2026-seven-of-nine-legacy-2000723368
+
 
 
