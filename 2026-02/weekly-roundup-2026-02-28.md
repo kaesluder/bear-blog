@@ -7,4 +7,5 @@ https://theredbeard.io/blog/i-intercepted-3177-api-calls-across-4-ai-coding-tool
 
 https://www.scarleteen.com/read/what-does-sexual-attraction-feel
 
+https://bigthink.com/books/the-score/
 
