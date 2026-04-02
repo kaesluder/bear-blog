@@ -31,7 +31,7 @@ Janome sewing machine and bits and bobs of equipment I've picked up over a decad
 
 ## Stationery
 
-A lot of serious thinking happens with pen and paper first. I usually go with medium-grade spiral bound notebooks and something like a Pilot G2 Rollerball by default. 
+A lot of serious thinking happens with pen and paper first. I usually go with medium-grade spiral bound notebooks and something like a Pilot G2 Gel by default. 
 The top ideas get typed into a git repository of markdown files. 
 
 ## Books and Documents
