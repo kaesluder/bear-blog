@@ -1,5 +1,4 @@
 # Using
-# Using
 
 ## Operating Systems
 
