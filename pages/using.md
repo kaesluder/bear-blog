@@ -24,6 +24,7 @@
 ## Shell Stuff
 
 - git, ripgrep, fd, zsh, fish, and others 
+- I'll call out lazygit because something about git fails to stick in my brain after a decade of using it. 
 
 ## Sewing
 
