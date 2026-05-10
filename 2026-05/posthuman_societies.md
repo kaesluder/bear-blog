@@ -14,7 +14,7 @@ Aquatic humans have adapted to live on sea worlds with minimal contact with dry 
 
 ### Appearance
 
-Webbed fingers and toes, no or minimal hair, variable blue-grey skin, additional body fat.
+Webbed fingers and toes, no or minimal hair, variable blue-gray skin, additional body fat.
 
 ### Clothing
 
@@ -36,14 +36,14 @@ Familiar names plus an epithet describing an emotional trait. Aquatics often cho
 
 ### Notes
 
-- Primary: *Door into Ocean* by Joan Slonzewski is my primary source for this version. Slonczewski's *sharers* are monogendered and ecofeminist.  
+- Primary: *Door into Ocean* by Joan Sloczewski is my primary source for this version. Slonczewski's *sharers* are monogendered and ecofeminist.  
 - Secondary: *Starfish* by Peter Watts has aquatic humans engineered for deep-sea labor. *Starfarers* by Vonda McIntyre includes an aquatic culture of humans who live with whales. 
 
 ## Clone Families
 
 Clone families are groups that have been cloned from a single or a few individuals. Variations in development and experience give each member unique personalities and abilities. Motives for establishing a clone family can vary but many have a shared family identity surrounding a particular profession or set of skills. They may have a familial language of inside jokes and gestures. Clone families may include others by birth, adoption, or marriage. The existence of clone families may or may not be illegal in different parts of the galaxy.
 
-In spite of being a "family," each member is unique with differences in behavior, mannersisms, apparent age, sexuality, gender, and beliefs.
+In spite of being a "family," each member is unique with differences in behavior, mannerisms, apparent age, sexuality, gender, and beliefs.
 
 ### Adaptations
 
@@ -69,11 +69,11 @@ In spite of being a "family," each member is unique with differences in behavior
 
 ### Notes
 
-Probaby the most popular example are the clone troopers from *Star Wars: The Clone Wars* and *Star Wars: The Bad Batch.* Other sources:
+Probably the most popular example are the clone troopers from *Star Wars: The Clone Wars* and *Star Wars: The Bad Batch.* Other sources:
 
 - The Durona Group from Lois Bujold's *Mirror Dance*
 - *Orphan Black*
-- *House of Suns* by Alastair Reynolds
+- *House of Suns* by Alistair Reynolds
 
 ### Character Questions
 
@@ -113,7 +113,7 @@ Authoritarian, revolutionary.
 
 - What changes have you had to make in living away from your home planet?
 - What are your goals with respect to your home culture? Escape, reform, revolt, something else?
-- What accidentailly reminds you of your caste origins? How do you respond? 
+- What accidentally reminds you of your caste origins? How do you respond? 
 
 ### Notes
 
@@ -122,7 +122,7 @@ Primary inspiration comes from *A Closed and Common Orbit* by Becky Chambers. Pe
 
 ## Military Zombies and Weapons
 
-*Zombies* are soldiers who have had their free will, higher cognitive functions, and moral conscience temporarily or perminantly disabled through the use of neurosurgery and other interventions. Compared to unmodified humans, they have higher reflexes and react without hesitation or restraint in combat situations. Tactical and strategic thinking are usually handled by other soldiers.
+*Zombies* are soldiers who have had their free will, higher cognitive functions, and moral conscience temporarily or permanently disabled through the use of neurosurgery and other interventions. Compared to unmodified humans, they have higher reflexes and react without hesitation or restraint in combat situations. Tactical and strategic thinking are usually handled by other soldiers.
 
 *Weapons* have been modified to think as part of a weapon system. A pilot might be modified to consider the aircraft to be part of their body, and a ground soldier modified to consider a rifle to be an extension of their arm. Humans with these mods get improved skill and reflexes without the cognitive cost of zombification. Weapons may experience bodily dysphoria when not operating as part of their weapon system.
 
@@ -134,11 +134,11 @@ Primary inspiration comes from *A Closed and Common Orbit* by Becky Chambers. Pe
 
 ### Appearance
 
-Visibile modifications, cybernetics, military stance
+Visible modifications, cybernetics, military stance
 
 ### Clothing
 
-Clothing to accomodate hidden implants, ordinary clothing, military clothing
+Clothing to accommodate hidden implants, ordinary clothing, military clothing
 
 ### Character Questions
 
@@ -149,7 +149,7 @@ Clothing to accomodate hidden implants, ordinary clothing, military clothing
 
 Peter Watts has discussed zombies in multiple stories including *Echopraxia*. Zombies are just one example of militarized neuroscience in his works. The ancillaries of *Ancillary Justice* by Ann Leckie are a related in my opinion. 
 
-A primary source for weapons here is [The Helecopter Story](https://en.wikipedia.org/wiki/I_Sexually_Identify_as_an_Attack_Helicopter) by Isobel Fall. In this story, militarized neuroscience manipulates gender dysphoria to create better helicopter pilots. Another story is "A Stick of Clay in the Hands of God is Infinite Potential" by Neon Yang centered on a mecha pilot. 
+A primary source for weapons here is [The Helicopter Story](https://en.wikipedia.org/wiki/I_Sexually_Identify_as_an_Attack_Helicopter) by Isobel Fall. In this story, militarized neuroscience manipulates gender dysphoria to create better helicopter pilots. Another story is "A Stick of Clay in the Hands of God is Infinite Potential" by Neon Yang centered on a mecha pilot. 
 
 ## Tech Democracy
 
@@ -159,7 +159,7 @@ Tech consensus societies use ubiquitous information technology implants to facil
 
 - Information Implant: Members can look up common information without needing a terminal. However the information may be unreliable.
 - Consensus: Advantage to social interactions with other members.
-- Trader: Members can use the implant to simplify complex calculations when trading or batering. Bonus when trading.
+- Trader: Members can use the implant to simplify complex calculations when trading or bartering. Bonus when trading.
 
 ### Appearance
 
@@ -167,7 +167,7 @@ Tech consensus societies use ubiquitous information technology implants to facil
 
 ### Clothing
 
-- consummable clothing, trendy clothing
+- consumable clothing, trendy clothing
 
 ### Ethos
 
@@ -179,7 +179,7 @@ Tech consensus societies use ubiquitous information technology implants to facil
 
 ### Notes
 
-This is largely based on the Demarchists of *Chasm City* by Alastair Reynolds.
+This is largely based on the Demarchists of *Chasm City* by Alistair Reynolds.
 
 
 
