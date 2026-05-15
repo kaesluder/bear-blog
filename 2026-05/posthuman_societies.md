@@ -1,6 +1,12 @@
 # Posthuman Societies for TTRPGs
 
-A human-centric science fiction doesn't mean everyone is the same. Posthuman societies can be just as weird and diverse as the classic aliens of Star Trek, Star Wars, and Babylon 5.
+A human-centric science fiction doesn't mean everyone is the same. Posthuman societies can be just as weird and diverse as the classic aliens of Star Trek, Star Wars, and Babylon 5. Here are some information sheets for building characters for posthuman societies from various science fiction stories. I've included notes on the source material that inspired some of these. This is intended to be the start of homebrew rulemaking rather than a comprehensive sourcebook. 
+
+- Adaptations: A short list of traits with suggested game mechanics.
+- Appearance, clothing, names: Optional notes on appearance, clothing, and names for fleshing out a characters.
+- Ethos: Some common (but very optional) ethos ideas. 
+- Notes: A short discussion of primary and secondary inspirations for this character concept. These are based on my personal reading rather than an overview of the genre as a whole. Some ideas (such as clone families and military zombies) are ubiquitious but I'm most familiar with specific works.
+- Character Questions: Powered by the Apocalypse-style prompts for character development. 
 
 ## Aquatics
 
@@ -14,7 +20,7 @@ Aquatic humans have adapted to live on sea worlds with minimal contact with dry 
 
 ### Appearance
 
-Webbed fingers and toes, no or minimal hair, variable blue-gray skin, additional body fat.
+Webbed fingers and toes, no or minimal hair, variable blue-gray skin color, additional body fat.
 
 ### Clothing
 
@@ -147,9 +153,9 @@ Clothing to accommodate hidden implants, ordinary clothing, military clothing
 
 ### Notes
 
-Peter Watts has discussed zombies in multiple stories including *Echopraxia*. Zombies are just one example of militarized neuroscience in his works. The ancillaries of *Ancillary Justice* by Ann Leckie are a related in my opinion. 
+Peter Watts has discussed zombies in multiple stories including *Echopraxia*. Zombies are just one example of militarized neuroscience in his works. The ancillaries of *Ancillary Justice* by Ann Leckie and Murphy from *Robocop* are related works.  
 
-A primary source for weapons here is [The Helicopter Story](https://en.wikipedia.org/wiki/I_Sexually_Identify_as_an_Attack_Helicopter) by Isobel Fall. In this story, militarized neuroscience manipulates gender dysphoria to create better helicopter pilots. Another story is "A Stick of Clay in the Hands of God is Infinite Potential" by Neon Yang centered on a mecha pilot. 
+A primary source for weapons here is [The Helicopter Story](https://en.wikipedia.org/wiki/I_Sexually_Identify_as_an_Attack_Helicopter) by Isobel Fall. In this story, militarized neuroscience manipulates gender dysphoria to create better helicopter pilots. Another story is "A Stick of Clay in the Hands of God is Infinite Potential" by Neon Yang centered on a mecha pilot.
 
 ## Tech Democracy
 
@@ -159,7 +165,7 @@ Tech consensus societies use ubiquitous information technology implants to facil
 
 - Information Implant: Members can look up common information without needing a terminal. However the information may be unreliable.
 - Consensus: Advantage to social interactions with other members.
-- Trader: Members can use the implant to simplify complex calculations when trading or bartering. Bonus when trading.
+- Trader: Members can use the implant to simplify complex calculations when trading or bartering. Bonus when trading, including interactions with non-members. 
 
 ### Appearance
 
@@ -181,5 +187,34 @@ Tech consensus societies use ubiquitous information technology implants to facil
 
 This is largely based on the Demarchists of *Chasm City* by Alistair Reynolds.
 
+## Carriers
+
+Carriers are infected with colonies of intelligent sybiotic bacteria. Each colony forms its own society specialized in a specific field of profession. The carriers gain expert knowledge of a specific skill, but must practice careful management to avoid the micros taking control. Carriers and micros form close-knit subcultures that guard the secrets of their relationship with extreme care. Publicly they are acknowledged experts in their field. 
+
+### Advantages
+
+- Cohort: Carriers gain the benefit of cohort (Starforged ruleset). Micros are specialized in a single field and can provide their expertise as needed. 
+
+### Appearance
+
+- glowing eyes, atypical eye colors, marked veins
+
+### Ethos
+
+- Communal, protective, intellectual, artistic
+
+### Character Questions
+
+- What are three values that are important to your micro community? How do these values affect you on the human scale?
+- What kind of relationship do you have with them? How do they see you?
+- What profession does your micro community excel in?
+
+### Notes
+
+Largely based on *Brain Plague* by Joan Slonczewski with the Borg and Trill as additional influence.
+
+## Body Modders
+
+Body modding technology has been adopted on multiple worlds with advanced medical, biological, and/or prosthetic technology. Superficial changes such as skin, eye, or hair color can be applied in hours. Significant changes in skeletal or organ systems may require a few weeks. Most applications of this technology conform to an idealized "normal" phenotype for the planet's culture, but there is always someone willing to push the boundaries.
 
 
