@@ -1,0 +1,27 @@
+# Brain Plague, by Joan Slonczewski
+
+I've been a science fiction fan nearly my entire life. When I was first coming out as bi and questioning my gender, science fiction provided a space to imagine other realities beyond the legal and cultural restrictions of the 80s and 90s. Science fiction showed me worlds where marriage equality and gender liberation could exit without major political conflict. *Brain Plague* came at a critical time in my life, and I ended up owning multiple copies over the years. I did a re-read last month in preparation for reading *Minds in Transit,* released just last year.
+
+Chrysoberyl is a starving artist in the big city on the planet of Valedon. Her ability to [see infrared](https://en.wikipedia.org/wiki/Tetrachromacy) makes her art incomprehensible to humans, while her humanity makes her art merely a curiosity to the posthuman elves of Elysium. Desperate for money, she enrolls in a medical trial for "brain enhancers," hoping for both cash and help making the artistic breakthrough she needs to sell her work.
+
+The "brain enhancers" turn out to be a colony of independently intelligent microorganisms. Collectively they think and live much faster than humans. For the micros, a human hour is a year and day is an entirely generation. Each colony has its own social culture, and the *Elutherian* strain is creative, artistic, free-willed, and hedonistic. Symbiotic relationships are strictly enforced by medical monitoring and self-governance among the community of human hosts. The micros communicate through flashes of light, and Chrys is among the few who can see the full range of Elutherian expression. The carrier Daeren and the Blue Angels serve as social workers for carriers and micros. 
+
+However the micros have a dark side. Other strains have developed the ability to hijack human brains entirely, forcing the hosts to involuntarily infect others and seek out the arsenic needed for microbial health and reproduction. The pathology starts with addiction, but most slaves and vampires lose the ability to take care of themselves over a few weeks. Carriers receive great privilege due to their enhanced abilities, but also face great prejudice due to their relationship with the pathological strain.
+
+Much of the book centers on Chry's evolving relationship with the Elutherian microbes. Chrys is faced with the responsibility of nurturing them as a culture, while setting hard boundaries to protect her own health and free will. The micros live on the human brain, but don't fully understand human behavior. The micros are forbidden from manipulating the host's pleasure or pain. Punishment for breaking these rules horrify the micros and create a crisis of conscience for Chrys. Individual micros are executed for small violations, and large violations involve the destruction of entire strains. Carriers grow emotionally dependent on hosts and few survive a complete wipe.
+
+In the background, the worlds of Valdeon and Elysium struggle with prejudices and inequality across multiple species and post-human societies. The posthuman elves live in luxurious planned cities while capitalist Valedon struggles with racism and wealth inequality. *Sims* have mixed *Homo*, *Pan*, and *Gorilla* genetics and predominantly live in Valedon's underground slums. Sentient AIs take physical form through bodies made of nanomachines. Over time, Chrys learns to overcome her own prejudices in the search for ways to live with Elutheria and other strains.
+
+Slonczewski's *Door Into Ocean* explores green and feminist anarchism. Here, Chrys searches for nonviolent solutions where possible. The master micros are not inherently harmful. Chrys and Dae attempt to save both master micros and slaves who *want* to change. At the same time, Slonczewski doesn't offer a magical solution for either the plague or the inequalities of Valdeon and Elysium. Nonviolence may be a better moral path forward, but it doesn't provide easy or effective answers to those problems. 
+
+Gender and sexuality are a minor part of the story, which is likely why the book was influential to me. Chrys is undeniably bi/pan, although the book doesn't use those terms. She's celibate for most of the book, and I've been reminded this week that some people struggle with the difference between orientation and behavior. Marriage equality on the basis of gender is accepted, with multiple examples among the secondary characters. Early in the novel, Chrys is offered free gender-affirming treatment as a privilege of her medical support as a carrier:
+
+>  “A client of your sophistication might be interested in our more advanced options. Would you consider a change of gender?” She leaned forward confidentially. “Our competitor, Plan Nine, offers only one change of gender per lifetime. Can you imagine? What if you changed your mind, and couldn’t switch back?” She shook her head. “Our plan guarantees to switch you back, as often as you choose.” 
+
+These background details are not developed (except for Chrys's reluctance to start another relationship). And that's one of the things I appreciate as a queer science fiction reader. The book doesn't have to explain *why* Valedon culture is open, but that background openness helps make space for queer people like myself to feel seen. It's not a perfect novel, but it's a good novel from the early years of a queer and feminist SFF renaissance that continues to this day.
+
+
+
+
+
+
